@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://giffiles.alphacoders.com/215/215985.gif" alt="Header GIF" width="100%" />
 </p>
-<h1 align="center">Namaste! , I'm Roshan (Roxu)</h1>
+<h1 align="center">Namaste! , I'm Roshan</h1>
 <h3 align="center">Student • Learning Full Stack Development (MERN)</h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <td width="65%">
 
 <p>
-Hi, I'm <b>Roshan "Roxu"</b>, a student currently learning full stack web development with the MERN stack. I build practical projects to improve my understanding of backend systems, APIs, and real-world application flow.
+Hi, I'm <b>Roshan </b>, a student currently learning full stack web development with the MERN stack. I build practical projects to improve my understanding of backend systems, APIs, and real-world application flow.
 </p>
 
 <br/>
