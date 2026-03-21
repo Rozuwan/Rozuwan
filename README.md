@@ -5,12 +5,12 @@
 <h3 align="center">Student • Learning Full Stack Development (MERN)</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Roshan Pahari">
+  <a href="https://www.linkedin.com/in/roxuwan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <img src="https://img.shields.io/badge/Discord-roxu-000000?style=for-the-badge&logo=discord&logoColor=white"/>
-
+  <a href="https://discord.gg/2xkrX5KjXT" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
   <a href="mailto:pahariroshan55@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
