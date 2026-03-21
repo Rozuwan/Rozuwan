@@ -84,3 +84,6 @@ Hi, I'm <b>Roshan "Roxu"</b>, a student currently learning full stack web develo
 </div>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rozuwan/Rozuwan/output/github-snake-dark.svg" />
+</p>
