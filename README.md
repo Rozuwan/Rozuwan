@@ -8,9 +8,9 @@
   <a href="https://linkedin.com/in/Roshan Pahari">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/rox_aan">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+
+  <img src="https://img.shields.io/badge/Discord-roxu-000000?style=for-the-badge&logo=discord&logoColor=white"/>
+
   <a href="mailto:pahariroshan55@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
