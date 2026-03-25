@@ -23,7 +23,7 @@
 <td width="65%">
 
 <p>
-Hi, I'm <b>Roshan </b>, a student currently learning full stack web development with the MERN stack. I build practical projects to improve my understanding of backend systems, APIs, and real-world application flow.
+Hi, I'm <b>Roshan </b>, a student currently learning full stack web development with the MERN stack. I specialize in building practical web applications and exploring system-level customization, with a focus on automating workflows and optimizing Linux-based environments.
 </p>
 
 <br/>
