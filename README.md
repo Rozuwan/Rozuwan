@@ -29,7 +29,6 @@ Hi, I'm <b>Roshan </b>, a student currently learning full stack web development 
 <br/>
 
 <p align="center">
-<em><b> Student at Pascal College (TU) </b></em> •
 <em><b> Learning MERN Stack </b></em> •
 <em><b> Backend & APIs </b></em> •
 <em><b> Project-Based Learning </b></em>
