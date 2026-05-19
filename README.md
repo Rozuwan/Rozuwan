@@ -93,5 +93,5 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rozuwan/Rozuwan/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Rozuwan/Rozuwan/output/github-snake-dark.svg" width="1600" />
 </p>
