@@ -45,9 +45,4 @@ jobs:
           config_timezone: Asia/Kathmandu
           config_output: svg
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Rozuwan
-          outputs: assets/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
