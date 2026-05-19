@@ -34,15 +34,3 @@ jobs:
           config_timezone: Asia/Kathmandu
           config_output: svg
 
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/metrics.activity.svg
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          config_timezone: Asia/Kathmandu
-          config_output: svg
-
-
