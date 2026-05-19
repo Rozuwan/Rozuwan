@@ -31,8 +31,8 @@
 <table>
 <tr>
 <td width="65%">
-<p>
-Hi, I'm <b>Roshan</b>, a student learning full stack web development with the MERN stack. I enjoy building practical web applications and exploring system-level customization — with a focus on automating workflows and optimizing Linux-based environments.
+<p align="center">
+Hi, I'm <b>Roshan</b>, a student learning full stack web development with the MERN stack. I enjoy building practical web applications and exploring system-level customization with a focus on automating workflows and optimizing Linux-based environments.
 </p>
 <br/>
 <p align="center">
