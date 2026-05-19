@@ -89,7 +89,6 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
   <br/><br/>
   <img src="assets/metrics.languages.svg" width="100%"/>
   <br/><br/>
-  <img src="assets/metrics.activity.svg" width="100%"/>
 </div>
 
 ---
