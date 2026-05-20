@@ -74,7 +74,7 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 <!-- ROX Gateway -->
 <td width="50%" valign="top" align="center">
 <br/>
-<h3>ROX Gateway</h3>
+<h3> ROX Gateway</h3>
 <p>A fast, minimal web portal to access curated platforms across movies, anime, manga, live TV, and apps — all in one place.</p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
@@ -103,7 +103,7 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 <!-- Conky Setup -->
 <td width="50%" valign="top" align="center">
 <br/>
-<h3>Minimal Conky Setup</h3>
+<h3> Minimal Conky Setup</h3>
 <p>A modern, lightweight Conky config for clean Linux desktops — minimal system monitoring with a polished transparent UI and Nord-inspired palette.</p>
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
@@ -127,10 +127,42 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 </tr>
 <tr>
 
+<!-- Firefox Extensions -->
+<td colspan="2" valign="top" align="center">
+<br/>
+<h3> Firefox Extensions</h3>
+<p>A growing collection of Firefox extensions — vanilla JS, no bundlers, no telemetry, browser-native APIs only.</p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firefox%20MV3-000000?style=flat-square&logo=firefox&logoColor=white"/>
+</p>
+<p>
+  ✦ <b>SleepingTab</b> — lightweight tab sleep & activity manager<br/>
+  ✦ <b>YouTube Focus Mode</b> — hide Shorts, recommendations, comments & homepage feed<br/>
+  ✦ No external requests, no CDN, no telemetry<br/>
+  ✦ Minimal permissions — each extension only asks for what it needs
+</p>
+<p>
+  <a href="https://github.com/Rozuwan/Firefox-extensions" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20Source%20Code-000000?style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://addons.mozilla.org" target="_blank">
+    <img src="https://img.shields.io/badge/🦊%20Install%20on%20AMO-000000?style=for-the-badge"/>
+  </a>
+</p>
+<br/>
+</td>
+
+</tr>
+<tr>
+
 <!-- Coming Soon -->
 <td colspan="2" align="center">
 <br/>
-<h3> More Coming Soon</h3>
+<h3>🚧 More Coming Soon</h3>
 <p>Currently cooking up new projects — stay tuned!</p>
 <p>
   <img src="https://img.shields.io/badge/Status-In%20Progress-000000?style=for-the-badge&logo=github&logoColor=white"/>
