@@ -74,7 +74,7 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 <!-- ROX Gateway -->
 <td width="50%" valign="top" align="center">
 <br/>
-<h3>🌐 ROX Gateway</h3>
+<h3> ROX Gateway</h3>
 <p>A fast, minimal web portal to access curated platforms across movies, anime, manga, live TV, and apps — all in one place.</p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
@@ -103,7 +103,7 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 <!-- Conky Setup -->
 <td width="50%" valign="top" align="center">
 <br/>
-<h3>🖥️ Minimal Conky Setup</h3>
+<h3> Minimal Conky Setup</h3>
 <p>A modern, lightweight Conky config for clean Linux desktops — minimal system monitoring with a polished transparent UI and Nord-inspired palette.</p>
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
