@@ -74,7 +74,7 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 <!-- ROX Gateway -->
 <td width="50%" valign="top" align="center">
 <br/>
-<h3> ROX Gateway</h3>
+<h3>🌐 ROX Gateway</h3>
 <p>A fast, minimal web portal to access curated platforms across movies, anime, manga, live TV, and apps — all in one place.</p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
@@ -103,7 +103,7 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 <!-- Conky Setup -->
 <td width="50%" valign="top" align="center">
 <br/>
-<h3> Minimal Conky Setup</h3>
+<h3>🖥️ Minimal Conky Setup</h3>
 <p>A modern, lightweight Conky config for clean Linux desktops — minimal system monitoring with a polished transparent UI and Nord-inspired palette.</p>
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
@@ -138,19 +138,35 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firefox%20MV3-000000?style=flat-square&logo=firefox&logoColor=white"/>
 </p>
-<p>
-  ✦ <b>SleepingTab</b> — lightweight tab sleep & activity manager<br/>
-  ✦ <b>YouTube Focus Mode</b> — hide Shorts, recommendations, comments & homepage feed<br/>
-  ✦ No external requests, no CDN, no telemetry<br/>
-  ✦ Minimal permissions — each extension only asks for what it needs
-</p>
+<table align="center" width="80%">
+<tr>
+<td align="center" width="50%">
+<b> SleepingTab</b><br/>
+<sub>Lightweight tab sleep & activity manager</sub><br/><br/>
+<a href="https://github.com/Rozuwan/Firefox-extensions/tree/main/SleepingTab" target="_blank">
+  <img src="https://img.shields.io/badge/📂%20Source-000000?style=flat-square"/>
+</a>
+&nbsp;
+<a href="https://addons.mozilla.org/en-US/firefox/addon/sleepingtab/" target="_blank">
+  <img src="https://img.shields.io/badge/🦊%20Install-000000?style=flat-square"/>
+</a>
+</td>
+<td align="center" width="50%">
+<b> YouTube Focus Mode</b><br/>
+<sub>Hide Shorts, recommendations, comments & feed</sub><br/><br/>
+<a href="https://github.com/Rozuwan/Firefox-extensions/tree/main/YouTube-Focus-Mode" target="_blank">
+  <img src="https://img.shields.io/badge/📂%20Source-000000?style=flat-square"/>
+</a>
+&nbsp;
+<a href="https://addons.mozilla.org/en-US/firefox/addon/yt-focus-mode/" target="_blank">
+  <img src="https://img.shields.io/badge/🦊%20Install-000000?style=flat-square"/>
+</a>
+</td>
+</tr>
+</table>
 <p>
   <a href="https://github.com/Rozuwan/Firefox-extensions" target="_blank">
-    <img src="https://img.shields.io/badge/📂%20Source%20Code-000000?style=for-the-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://addons.mozilla.org" target="_blank">
-    <img src="https://img.shields.io/badge/🦊%20Install%20on%20AMO-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📂%20View%20All%20Extensions-000000?style=for-the-badge"/>
   </a>
 </p>
 <br/>
@@ -162,7 +178,7 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 <!-- Coming Soon -->
 <td colspan="2" align="center">
 <br/>
-<h3>🚧 More Coming Soon</h3>
+<h3> More Coming Soon</h3>
 <p>Currently cooking up new projects — stay tuned!</p>
 <p>
   <img src="https://img.shields.io/badge/Status-In%20Progress-000000?style=for-the-badge&logo=github&logoColor=white"/>
