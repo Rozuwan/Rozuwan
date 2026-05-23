@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/215/215985.gif" alt="Header GIF" width="100%" />
+ <img src="assets/bg.gif" alt="Header GIF" width="100%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Namaste!+I'm+Roshan;MERN+Stack+Learner;Building+cool+stuffz..." alt="Typing SVG" />
@@ -37,7 +37,7 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 </p>
 </td>
 <td width="35%" align="center">
-  <img src="https://camo.githubusercontent.com/21834356bfe97f447537a9eaecc1c44a52941f11bd4127b40e0079306b80d876/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30392f63362f32392f30396336323930336265656261333336646339646137366562356339613130372e676966" width="180"/>
+  <img src="assets/character.gif" width="200"/>
 </td>
 </tr>
 </table>
