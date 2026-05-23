@@ -190,16 +190,26 @@ Not an expert yet, but getting there every day.
 
 ---
 
+<br/>
+<br/>
+
 <h2 align="center"><em>Statistics</em></h2>
-<div align="center">
-  <img src="assets/metrics.stats.svg" width="100%"/>
-  <br/><br/>
-  <img src="assets/metrics.languages.svg" width="100%"/>
-  <br/><br/>
-</div>
+
+<br/>
+
+<p align="center">
+  <img src="assets/metrics.stats.svg" width="48%" />
+  &nbsp;&nbsp;
+  <img src="assets/metrics.languages.svg" width="48%" />
+</p>
+
+<br/>
+<br/>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rozuwan/Rozuwan/output/github-snake-dark.svg" width="900" />
+  <img src="https://raw.githubusercontent.com/Rozuwan/Rozuwan/output/github-snake-dark.svg" width="100%" />
 </p>
+<br/>
+
