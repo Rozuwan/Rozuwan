@@ -20,20 +20,21 @@
   </a>
 </p>
 
----
-
 <h2 align="center"><em>About Me</em></h2>
 <table>
 <tr>
 <td width="65%">
 <p align="center">
-Hi, I'm <b>Roshan</b>, a student learning full stack web development with the MERN stack. I enjoy building practical web applications and exploring system-level customization with a focus on automating workflows and optimizing Linux-based environments.
+Hi, I'm <b>Roshan</b> — a student learning by actually building things.
+Currently deep into the MERN stack, crafting Firefox extensions with
+vanilla JS, poking at backend APIs, and customizing Linux workflows.
+Not an expert yet, but getting there every day.
 </p>
 <br/>
 <p align="center">
-  <em><b>Learning MERN Stack</b></em> •
-  <em><b>Backend & APIs</b></em> •
-  <em><b>Project-Based Learning</b></em>
+  <em><b>Building with MERN</b></em> &nbsp;•&nbsp;
+  <em><b>Shipping Firefox Extensions</b></em> &nbsp;•&nbsp;
+  <em><b>Tinkering with Linux</b></em>
 </p>
 </td>
 <td width="35%" align="center">
@@ -41,8 +42,6 @@ Hi, I'm <b>Roshan</b>, a student learning full stack web development with the ME
 </td>
 </tr>
 </table>
-
----
 
 <h2 align="center"><em>Tech Stack</em></h2>
 <p align="center"><b>Frontend</b></p>
